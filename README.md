@@ -1,4 +1,4 @@
-# Online-T-Shirt-Shop
+# www.clickfits.com
 
 Fully functional T-Shirt shop written in JavaScript with React, 
 
