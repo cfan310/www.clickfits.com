@@ -2,7 +2,9 @@
 
 Fully functional T-Shirt shop written in JavaScript with React, 
 
-with transaction data stored in SQL and either C or Python to finish up the back end.
+with transaction data stored in SQL and either C++ or Python to finish up the back end.
+
+Pythin backend will come later
 
 Python Backend; SQL for data 
 
@@ -13,3 +15,5 @@ II. BUtton and input functionality
 III. Pmt processing, credit card intake
 IV. SQL data storage > Node.js requests
 V.  .....
+
+
